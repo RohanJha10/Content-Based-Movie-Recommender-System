@@ -38,4 +38,5 @@ Built with a real-time user interface using **Streamlit**, the application allow
 ## 📸 Screenshots
 
 ### 🔹 Streamlit Interface
-![Homepage](<img width="1453" height="855" alt="Image" src="https://github.com/user-attachments/assets/6c3b4767-9695-4d04-b6db-4624ed03ed3a" />)
+### 🔹 Homepage
+![Homepage](Homepage.png)
