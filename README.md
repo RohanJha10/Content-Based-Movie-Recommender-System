@@ -39,4 +39,4 @@ Built with a real-time user interface using **Streamlit**, the application allow
 
 ### 🔹 Streamlit Interface
 ### 🔹 Homepage
-![Homepage](Homepage.png)
+![Homepage](Homepage.jpg)
